@@ -1,0 +1,27 @@
+.App{
+    display: flex;
+    gap: 1rem;
+    flex-direction: column;
+}
+
+.Filters{
+    display: flex;
+    gap: 0.5rem;
+    flex-direction: row;
+    
+}
+.AvailableJobs{
+    display: flex;
+    gap: 3rem;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    width: 100%;
+   
+}
+
+.loader {
+    display: flex;
+    width: 100%;
+    justify-content: center;
+}
