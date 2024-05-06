@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.9d8e4cec.css",
-    "main.js": "/static/js/main.061b2cfb.js",
-    "index.html": "/index.html",
-    "main.9d8e4cec.css.map": "/static/css/main.9d8e4cec.css.map",
-    "main.061b2cfb.js.map": "/static/js/main.061b2cfb.js.map"
+    "main.css": "/JOBPORTALREACT/static/css/main.9d8e4cec.css",
+    "main.js": "/JOBPORTALREACT/static/js/main.061b2cfb.js",
+    "index.html": "/JOBPORTALREACT/index.html",
+    "main.9d8e4cec.css.map": "/JOBPORTALREACT/static/css/main.9d8e4cec.css.map",
+    "main.061b2cfb.js.map": "/JOBPORTALREACT/static/js/main.061b2cfb.js.map"
   },
   "entrypoints": [
     "static/css/main.9d8e4cec.css",
