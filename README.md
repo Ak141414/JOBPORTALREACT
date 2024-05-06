@@ -14,6 +14,10 @@ Use this command to install node_modules.
 
 In this project use filters like company,experience,location,base pay,roles by these you can filter the desired  job you need to get through this website.
 
+MUI, React are the major part of the code. 
+MUI componets like AUTOCOMPLETE, CARDS, NAVBAR are used.
+In react useState and useEffect hooks are used.
+
 
 
 
