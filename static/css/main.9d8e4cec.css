@@ -1,0 +1,2 @@
+.App{display:flex;flex-direction:column;gap:1rem}.Filters{gap:.5rem}.AvailableJobs,.Filters{display:flex;flex-direction:row}.AvailableJobs{flex-wrap:wrap;gap:3rem}.AvailableJobs,.loader{justify-content:center;width:100%}.loader{display:flex}
+/*# sourceMappingURL=main.9d8e4cec.css.map*/
